@@ -2,7 +2,7 @@
 
 [![Security Scan](https://github.com/kiefertaylorland/cicd-security-scanner/actions/workflows/security-scan.yml/badge.svg)](https://github.com/kiefertaylorland/cicd-security-scanner/actions/workflows/security-scan.yml)
 
-> **Automated SAST (Static Application Security Testing) pipeline using Semgrep for continuous security monitoring**
+**Automated SAST (Static Application Security Testing) pipeline using Semgrep for continuous security monitoring**
 
 ## 🎯 What This Does
 
