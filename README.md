@@ -211,3 +211,4 @@ MIT License - feel free to use this in your projects!
 ---
 
 **⭐ Star this repository if it helps secure your CI/CD pipeline!**
+# Trigger initial security scan
