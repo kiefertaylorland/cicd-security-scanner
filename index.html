@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CI/CD Security Scanner Dashboard</title>
-    <meta http-equiv="refresh" content="0;url=./security-reports/security-report.html">
+    <meta http-equiv="refresh" content="0;url=./security-reports/">
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
@@ -80,13 +80,13 @@
 </head>
 <body>
     <div class="container">
-        <div class="logo">🔒</div>
+        <div class="logo">�</div>
         <h1>CI/CD Security Scanner</h1>
         <p>Redirecting to Security Dashboard...</p>
         <div class="spinner"></div>
         <p>
-            <a href="./security-reports/security-report.html" class="btn">
-                View Security Report
+            <a href="./security-reports/" class="btn">
+                View Security Reports
             </a>
         </p>
         <p style="font-size: 1rem; margin-top: 2rem;">
@@ -101,9 +101,8 @@
     </div>
 
     <script>
-        // Fallback redirect in case meta refresh doesn't work
         setTimeout(function() {
-            window.location.href = './security-reports/security-report.html';
+            window.location.href = './security-reports/';
         }, 2000);
     </script>
 </body>
