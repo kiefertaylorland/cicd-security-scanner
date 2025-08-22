@@ -1,7 +1,7 @@
 # 🔒 CI/CD Security Scanner
 
-[![Security Scan](https://github.com/YOUR_USERNAME/cicd-security-scanner/actions/workflows/security-scan.yml/badge.svg)](https://github.com/YOUR_USERNAME/cicd-security-scanner/actions/workflows/security-scan.yml)
-[![Security Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/YOUR_USERNAME/cicd-security-scanner/gh-pages/security-reports/security-badge.json)](https://YOUR_USERNAME.github.io/cicd-security-scanner/security-reports/)
+[![Security Scan](https://github.com/kiefertaylorland/cicd-security-scanner/actions/workflows/security-scan.yml/badge.svg)](https://github.com/kiefertaylorland/cicd-security-scanner/actions/workflows/security-scan.yml)
+[![Security Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/kiefertaylorland/cicd-security-scanner/gh-pages/security-reports/security-badge.json)](https://kiefertaylorland.github.io/cicd-security-scanner/security-reports/)
 
 > **Automated SAST (Static Application Security Testing) pipeline using Semgrep for continuous security monitoring**
 
@@ -19,7 +19,7 @@ This project demonstrates a **complete CI/CD security scanning solution** that:
 ## 🚀 Quick Demo
 
 1. **Check the Badge**: The security badge above shows current vulnerability status
-2. **View Live Report**: [Security Dashboard](https://YOUR_USERNAME.github.io/cicd-security-scanner/security-reports/)
+2. **View Live Report**: [Security Dashboard](https://kiefertaylorland.github.io/cicd-security-scanner/security-reports/)
 3. **See Action Logs**: Click the workflow badge to see detailed scan results
 
 ![Security Dashboard](https://user-images.githubusercontent.com/placeholder/security-dashboard.png)
@@ -43,7 +43,7 @@ graph LR
 ### Option 1: Fork This Repository
 
 1. Fork this repository
-2. Update the badge URLs in README (replace `YOUR_USERNAME`)
+2. Update the badge URLs in README (replace `kiefertaylorland` with your username)
 3. Enable GitHub Pages in repository settings
 4. Push code changes to trigger scans
 
@@ -53,7 +53,7 @@ graph LR
 2. Add the badge to your README:
 
    ```markdown
-   [![Security Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/gh-pages/security-reports/security-badge.json)](https://YOUR_USERNAME.github.io/YOUR_REPO/security-reports/)
+   [![Security Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/kiefertaylorland/YOUR_REPO/gh-pages/security-reports/security-badge.json)](https://kiefertaylorland.github.io/YOUR_REPO/security-reports/)
    ```
 
 ### Option 3: Local Testing
