@@ -1,7 +1,6 @@
 # 🔒 CI/CD Security Scanner
 
 [![Security Scan](https://github.com/kiefertaylorland/cicd-security-scanner/actions/workflows/security-scan.yml/badge.svg)](https://github.com/kiefertaylorland/cicd-security-scanner/actions/workflows/security-scan.yml)
-[![Security Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/kiefertaylorland/cicd-security-scanner/gh-pages/security-reports/security-badge.json)](https://kiefertaylorland.github.io/cicd-security-scanner/security-reports/)
 
 > **Automated SAST (Static Application Security Testing) pipeline using Semgrep for continuous security monitoring**
 
